@@ -64,6 +64,9 @@
   "/12306/zxdt/:id?": [
     "LogicJake"
   ],
+  "/12371/:category?": [
+    "zvrr"
+  ],
   "/005/:category?": [
     "nczitzk"
   ],
@@ -171,11 +174,11 @@
   "/500px/tribe/set/:id": [
     "TonyRL"
   ],
-  "/500px/user/works/:id": [
-    "TonyRL"
-  ],
   "/50forum/": [
     "sddiky"
+  ],
+  "/51cto/index/recommend": [
+    "cnkmmk"
   ],
   "/52hrtt/:area?/:type?": [
     "nczitzk"
@@ -467,6 +470,9 @@
   "/atcoder/post/:language?/:keyword?": [
     "nczitzk"
   ],
+  "/atptour/news/:lang?": [
+    "LM1207"
+  ],
   "/auto-stats/:category?": [
     "nczitzk"
   ],
@@ -695,13 +701,17 @@
     "DIYgod"
   ],
   "/bilibili/vsearch/:kw/:order?/:disableEmbed?/:tid?": [
-    "Symty"
+    "pcrtool",
+    "DIYgod"
   ],
   "/bilibili/watchlater/:uid/:disableEmbed?": [
     "JimenezLi"
   ],
   "/bilibili/weekly/:disableEmbed?": [
     "ttttmr"
+  ],
+  "/binance/launchpool": [
+    "zhenlohuang"
   ],
   "/bing/": [
     "FHYunCai"
@@ -782,8 +792,9 @@
   "/bloomberg/authors/:id/:slug/:source?": [
     "josh"
   ],
-  "/bloomberg/:site": [],
-  "/bloomberg/": [],
+  "/bloomberg/:site?": [
+    "bigfei"
+  ],
   "/bluestacks/release/5": [
     "TonyRL"
   ],
@@ -835,7 +846,9 @@
   "/btzj/:category?": [
     "nczitzk"
   ],
-  "/buaa/sme/:path{.+}?": [],
+  "/buaa/sme/:path{.+}?": [
+    "MeanZhang"
+  ],
   "/buaa/news/:type": [
     "AlanDecode"
   ],
@@ -1769,6 +1782,9 @@
   "/eprice/:region?": [
     "TonyRL"
   ],
+  "/europechinese/latest": [
+    "emdoe"
+  ],
   "/eventernote/actors/:name/:id": [
     "KTachibanaM"
   ],
@@ -2274,7 +2290,10 @@
     "Yoge-Code"
   ],
   "/gov/mmht/*": [],
-  "/gov/moa/:suburl{.+}": [],
+  "/gov/moa/:suburl{.+}": [
+    "Origami404",
+    "lyqluis"
+  ],
   "/gov/moa/sjzxfb/:category{.+}?": [],
   "/gov/moa/zdscxx/:category{.+}?": [],
   "/gov/moe/:type": [
@@ -2608,6 +2627,9 @@
   ],
   "/hit/today/:category": [
     "ranpox"
+  ],
+  "/hitcon/zeroday/vulnerability/:status?": [
+    "KarasuShin"
   ],
   "/hitsz/article/:category?": [
     "xandery-geek"
@@ -3177,6 +3199,9 @@
     "nczitzk"
   ],
   "/kantarworldpanel/:region?/:category{.+}?": [],
+  "/kanxue/topic/:category?/:type?": [
+    "renzhexigua"
+  ],
   "/kaopu/news/:language?": [
     "fashioncj"
   ],
@@ -3386,6 +3411,9 @@
   "/luogu/user/feed/:uid": [
     "solstice23"
   ],
+  "/luolei/": [
+    "nczitzk"
+  ],
   "/luxiangdong/archive": [
     "Levix"
   ],
@@ -3504,6 +3532,12 @@
   ],
   "/mindmeister/:category?/:language?": [
     "TonyRL"
+  ],
+  "/minecraft/blockedservers": [
+    "xtexChooser"
+  ],
+  "/minecraft/java-runtime/:arch?/:javaType?": [
+    "xtexChooser"
   ],
   "/minecraft/version/:versionType?/:linkType?": [
     "TheresaQWQ",
@@ -3668,6 +3702,9 @@
   "/ncepu/master/:type": [
     "nilleo"
   ],
+  "/ncpssd/newlist": [
+    "LyleLee"
+  ],
   "/ncu/jwc": [
     "ywh555hhh"
   ],
@@ -3758,7 +3795,8 @@
   "/nikkei/": [],
   "/nikkei/index": [],
   "/nikkei/:category/:article_type?": [
-    "Arracc"
+    "Arracc",
+    "ladeng07"
   ],
   "/nikkei/asia": [
     "rainrdx"
@@ -4874,6 +4912,12 @@
   "/shopback/:store": [
     "nczitzk"
   ],
+  "/shopify/apps/:handle/reviews/:page?": [
+    "PrintNow"
+  ],
+  "/shopify/apps/search/:q": [
+    "PrintNow"
+  ],
   "/shoppingdesign/posts": [
     "miles170"
   ],
@@ -5730,6 +5774,9 @@
   "/ustc/jwc/:type?": [
     "hang333"
   ],
+  "/ustc/math/:type?": [
+    "ne0-wu"
+  ],
   "/ustc/sist/:type?": [
     "jasongzy"
   ],
@@ -5816,6 +5863,9 @@
   ],
   "/warthunder/news": [
     "axojhf"
+  ],
+  "/watasuke/blog": [
+    "honahuku"
   ],
   "/wdc/download/:id?": [],
   "/web/articles": [
@@ -6013,6 +6063,9 @@
   ],
   "/xboxfan/news": [
     "XXY233"
+  ],
+  "/xianbao/:category?": [
+    "nashi23"
   ],
   "/xiaoheihe/add2cart/:platform": [
     "ladeng07"
@@ -6230,7 +6283,9 @@
   "/youtube/community/:handle": [
     "TonyRL"
   ],
-  "/youtube/c/:username/:embed?": [],
+  "/youtube/c/:username/:embed?": [
+    "TonyRL"
+  ],
   "/youtube/live/:username/:embed?": [
     "sussurr127"
   ],
@@ -6410,6 +6465,9 @@
   ],
   "/zhiy/posts/:author": [
     "TonyRL"
+  ],
+  "/zhonglun/research/article/:language{[a-zA-Z0-9-]+}?": [
+    "nczitzk"
   ],
   "/zhubai/:id": [
     "naixy28"
